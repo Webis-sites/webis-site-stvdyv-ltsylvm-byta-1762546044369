@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import ServicesShowcase from '@/components/ServicesShowcase';
 import PortfolioGallery from '@/components/PortfolioGallery';
 import ProcessTimeline from '@/components/ProcessTimeline';
+import TestimonialsCarousel from '@/components/TestimonialsCarousel';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <ServicesShowcase />
         <PortfolioGallery />
         <ProcessTimeline />
+        <TestimonialsCarousel />
       </main>
     </>
   );
