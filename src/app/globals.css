@@ -12,6 +12,9 @@
     
   --navbar-height: 5rem;
   --navbar-blur: 12px;
+
+  --color-primary: #FFEEAD;
+  --color-secondary: #000000;
 }
 
     html {
