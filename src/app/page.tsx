@@ -3,6 +3,7 @@
 import React from 'react';
 import Hero from '@/components/Hero';
 import ServicesShowcase from '@/components/ServicesShowcase';
+import PortfolioGallery from '@/components/PortfolioGallery';
 
 export default function HomePage() {
   return (
@@ -12,6 +13,7 @@ export default function HomePage() {
       
         <Hero />
         <ServicesShowcase />
+        <PortfolioGallery />
       </main>
     </>
   );
